@@ -19,6 +19,7 @@
     "framer-motion": "^10.12.18",
     "maath": "^0.7.0",
     "next": "13.4.9",
+    "package": "^1.0.1",
     "postcss": "8.4.25",
     "react": "18.2.0",
     "react-dom": "18.2.0",
